@@ -146,9 +146,9 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 grpmembernum = metadata.participants.length
 
             
-                if (anu.action == 'add') {
-                let WAuserName = num
-                mikutext = `
+                
+                
+                
 Hello @
 
 I am *c

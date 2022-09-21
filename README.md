@@ -71,7 +71,7 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
           
 
 #### ✧ [![chiku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
-
+https://github.com/christian774/Chiku-MD/tree/main#readme
 
 
 #### ✧ `Fork` this repo.

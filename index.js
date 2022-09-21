@@ -164,10 +164,10 @@ ${metad
     footer: `${global.BotName}`,
     headerType: 4,
     }
-Miku.sendMessage(anu.id, buttonMessage)
-                } else if (anu.action == 'remove') {
-                	let WAuserName = num
-                    mikutext = `
+Miku.se
+                
+                	
+                   
 good by 
 
 I hope 

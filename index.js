@@ -149,9 +149,9 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 
                 
                 
-Hello @
 
-I am *c
+
+
 
 *Group 
 ${metad
@@ -164,13 +164,13 @@ ${metad
     footer: `${global.BotName}`,
     headerType: 4,
     }
-Miku.se
+
                 
                 	
                    
-good by 
 
-I hope 
+
+ 
 `
 
     let buttonMessage = {
